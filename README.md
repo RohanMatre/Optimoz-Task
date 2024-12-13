@@ -88,7 +88,7 @@ python main.py
 	•	Mobile Version: Develop a mobile app for cross-platform usage.
 
 👨‍💻 Contributors
-	•	Your Name – Developer and Project Maintainer
+	•	Rohan Matre – Developer and Project Maintainer
 
 Feel free to fork, contribute, and enhance this project. Happy tracking! 🎉
 
